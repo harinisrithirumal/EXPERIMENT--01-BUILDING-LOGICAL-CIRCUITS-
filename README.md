@@ -162,10 +162,23 @@ For each circuit, record:
 
 ## 7. Expected Results (drop the screenshots of each equations circuit )
 
+1- <img width="903" height="896" alt="image" src="https://github.com/user-attachments/assets/b9f942ee-3f12-41e8-a048-adb12044c299" />
 
 
+2- <img width="1186" height="920" alt="image" src="https://github.com/user-attachments/assets/071ac2c3-9172-4752-b165-daae1486a63c" />
 
- 
+3 - <img width="1162" height="545" alt="image" src="https://github.com/user-attachments/assets/c9980684-bd74-4bef-a0bd-c709592c9d5b" />
+
+4 - <img width="971" height="709" alt="image" src="https://github.com/user-attachments/assets/d65084b2-a037-4824-bbaa-8375361fdea2" />
+
+5 - <img width="699" height="715" alt="image" src="https://github.com/user-attachments/assets/7c9baa40-c740-4da0-922f-715d250f0fd5" />
+
+6- <img width="907" height="711" alt="image" src="https://github.com/user-attachments/assets/d53d7818-d631-4499-a095-db31f1f6fc1c" />
+
+7 - <img width="1160" height="699" alt="image" src="https://github.com/user-attachments/assets/b8e6be40-24a1-42aa-b3c6-5d1489fc43d5" />
+
+8 - <img width="846" height="717" alt="image" src="https://github.com/user-attachments/assets/df2aed27-1ac3-4879-a3e3-d569a0a3bf93" />
+
 ## 8. Result
 
 The logic circuits are designed, implemented, and verified using Boolean algebra and digital logic gates. The original and simplified circuits are compared based on gate count and logic depth.
